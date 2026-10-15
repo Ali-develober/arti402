@@ -18,6 +18,7 @@ This lab builds deep learning skills from the ground up — starting with neural
 | [lab03](./lab03) | CNN Architecture: The Four Building Blocks | 3 |
 | [lab05](./lab05) | Optimizers: SGD, Mini-batches, Momentum, RMSProp and Adam | 5 |
 | [lab06](./lab06) | Regularization: Closing the Gap | 6 |
+| [lab07](./lab07) | TensorFlow and Keras: Everything You Built, in One Line Each | 7 |
  
   
 ## How to use this repo
