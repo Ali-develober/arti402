@@ -19,6 +19,7 @@ This lab builds deep learning skills from the ground up — starting with neural
 | [lab05](./lab05) | Optimizers: SGD, Mini-batches, Momentum, RMSProp and Adam | 5 |
 | [lab06](./lab06) | Regularization: Closing the Gap | 6 |
 | [lab07](./lab07) | TensorFlow and Keras: Everything You Built, in One Line Each | 7 |
+| [lab08](./lab08) | PyTorch: Writing the Training Loop Again, On Purpose | 8 |
  
   
 ## How to use this repo
